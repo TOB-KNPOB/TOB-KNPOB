@@ -1,4 +1,4 @@
-Hi there 👋 I am an MPhil student at The Hong Kong Polytechnic University and AiDLab (Laboratory for Artificial Intelligence in Design). I am thrilled with exploring new ideas 💡 and hopefully my effort can contribute to our community 🌍
+Hi there 👋 I am an MPhil student at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) and [AiDLab (Laboratory for Artificial Intelligence in Design)](https://www.aidlab.hk/en/). I am thrilled with exploring new ideas 💡 and hopefully my effort can contribute to our community 🌍
 
 <!--
 **TOB-KNPOB/TOB-KNPOB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
